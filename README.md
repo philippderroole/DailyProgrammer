@@ -8,3 +8,4 @@ Other languages i have used:
 - [x] Python
 - [x] Javascript
 - [x] C
+- [x] Rust
