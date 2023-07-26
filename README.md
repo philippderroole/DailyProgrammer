@@ -1,7 +1,7 @@
 # DailyProgrammer
 
-Im using this repository to practice programming.
-Currently im focusing on learning **Rust**.
+Im using this repository to practice programming. <br>
+Currently im focusing on learning **Rust**. <br>
 The challenges can be found [here](https://www.reddit.com/r/dailyprogrammer/)
 
 
