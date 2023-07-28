@@ -1,7 +1,6 @@
 # [2021-07-12] Challenge #398 [Difficult] Matrix Sum
 
 ## Example
-
 Consider this 5x5 matrix of numbers:
 
 `
@@ -16,11 +15,9 @@ If you select 5 elements from this matrix such that no two elements come from th
 The answer in this case is 1099762961 (123456789 + 96549194 + 663035648 + 52838563 + 163882767).
 
 ## Challenge
-
 Find the minimum such sum when selecting 20 elements (one from each row and column) of [this 20x20 matrix](https://gist.githubusercontent.com/cosmologicon/4f6473b4e781f20d4bdef799132a3b4b/raw/d518a7515618f70d25c2bc6c58430f732f6e06ce/matrix-sum-20.txt). The answer is a 10-digit number whose digits sum to 35.
 
 There's no strict runtime requirement, but you must actually run your program all the way through to completion and get the right answer in order to qualify as a solution: a program that will eventually give you the answer is not sufficient.
 
 ## Optional Bonus
-
 What's the smallest sum you can find for [this 97x97 matrix](https://gist.githubusercontent.com/cosmologicon/641583595e2c76d7c119912f7afafbfe/raw/6f9ebcb354c3aa58fb19c6f4208d0eced310b62a/matrix-sum-97.txt)? It's okay to give a result that's not optimal in this case. If you want to prove that you found a certain sum, you can you post the indices of each element you selected from each row in order. For the 5x5 example, for instance, you could post `[0,4,1,3,2]`.

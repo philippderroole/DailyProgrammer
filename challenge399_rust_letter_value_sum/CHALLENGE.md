@@ -1,7 +1,6 @@
 # [2021-07-19] Challenge #399 [Easy] Letter value sum
 
 ## Challenge
-
 Assign every lowercase letter a value, from 1 for a to 26 for z. Given a string of lowercase letters, find the sum of the values of the letters in the string.
 
 lettersum("") => 0
@@ -12,7 +11,6 @@ lettersum("excellent") => 100
 lettersum("microspectrophotometries") => 317
 
 ## Optional bonus challenges
-
 Use the enable1 word list for the optional bonus challenges.
 
 1. microspectrophotometries is the only word with a letter sum of 317. Find the only word with a letter sum of 319.
